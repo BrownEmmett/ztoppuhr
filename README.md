@@ -25,8 +25,8 @@ directory:
 
     $ ./ztoppuhr.py
 
-Initially the stopwatch shows _0.000_ (0s 0ms). The **A** button will
-start and pause the stopwatch, while the **B** button resets the counter
+Initially the stopwatch shows _0.000_ (0s 0ms). The **Ⓐ** button will
+start and pause the stopwatch, while the **Ⓑ** button resets the counter
 back to _0.000_... er, that's it.
 
 ## References
